@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/straits-times-lecture/static/css/main.d1b05096.chunk.css",
+    "main.js": "/straits-times-lecture/static/js/main.4fbb9a0f.chunk.js",
+    "main.js.map": "/straits-times-lecture/static/js/main.4fbb9a0f.chunk.js.map",
+    "runtime-main.js": "/straits-times-lecture/static/js/runtime-main.999c9c4d.js",
+    "runtime-main.js.map": "/straits-times-lecture/static/js/runtime-main.999c9c4d.js.map",
+    "static/css/2.67123b20.chunk.css": "/straits-times-lecture/static/css/2.67123b20.chunk.css",
+    "static/js/2.7ce1e02f.chunk.js": "/straits-times-lecture/static/js/2.7ce1e02f.chunk.js",
+    "static/js/2.7ce1e02f.chunk.js.map": "/straits-times-lecture/static/js/2.7ce1e02f.chunk.js.map",
+    "index.html": "/straits-times-lecture/index.html",
+    "precache-manifest.20c4391802b75487d26965351ec2a3e1.js": "/straits-times-lecture/precache-manifest.20c4391802b75487d26965351ec2a3e1.js",
+    "service-worker.js": "/straits-times-lecture/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/straits-times-lecture/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/straits-times-lecture/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7ce1e02f.chunk.js.LICENSE": "/straits-times-lecture/static/js/2.7ce1e02f.chunk.js.LICENSE",
+    "static/media/logo.svg": "/straits-times-lecture/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.999c9c4d.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.7ce1e02f.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.4fbb9a0f.chunk.js"
+  ]
+}
